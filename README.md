@@ -10,6 +10,7 @@
   - [Additional Info](#questions)
   ## Description:
   A web application that can create save and remove notes.
+  ![Jot-mini](https://user-images.githubusercontent.com/110942378/193175272-c281d77b-32e2-4ee6-8c62-206248cf9848.jpg)
   ## Installation:
   run npm install
   ## Usage:
